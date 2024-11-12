@@ -1,0 +1,9 @@
+/* Top Nav Bar */
+
+.Size {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: auto;
+    height: auto;
+}
