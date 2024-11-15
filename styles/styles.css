@@ -862,7 +862,12 @@ grid-row: 1;
       font-size: 16px;
     }
   }
-
+  @media screen and (max-width: 576px){
+    .logo{
+        height: 15%;
+        width: 15%;
+    }
+  }
   
 
 
